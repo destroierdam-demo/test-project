@@ -1,13 +1,8 @@
 #include <iostream>
-
-class Base {
-public:
-	void f(int index) {
-	};
-	int data;
-};
+// #include "Vector.hpp"
 
 
 int main() {
+	// const Vector<int> vec;
 	std::cout << "Hello, world\n";
 }
